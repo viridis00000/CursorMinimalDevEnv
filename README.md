@@ -1,1 +1,1 @@
-# CursorMinimalDenEnv
+# CursorMinimalDevEnv
