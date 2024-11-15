@@ -1,0 +1,6 @@
+# Development tools
+mypy
+ruff
+pytest
+pydantic
+python-dotenv
