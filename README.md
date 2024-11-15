@@ -1,4 +1,4 @@
-# CursorMinimalDevEnv
+# Cursor Minimal Development Environment Repository
 
 A minimal development environment setup for Cursor editor using Dev Containers.
 
