@@ -1,5 +1,4 @@
 # Development tools
-mypy
 ruff
 pytest
 pydantic
