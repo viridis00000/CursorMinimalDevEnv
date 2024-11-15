@@ -7,14 +7,14 @@
         "vscode": {
             "settings": {
                 "python.defaultInterpreterPath": "/app/.venv/bin/python",
-                "python.linting.enabled": true,
+                "editor.defaultFormatter": "charliermarsh.ruff",
                 "python.linting.ruffEnabled": true,
                 "python.linting.ruffPath": "/app/.venv/bin/ruff",
-                "python.analysis.typeCheckingMode": "basic",
-                "python.formatting.blackPath": "/app/.venv/bin/black"
+                "python.analysis.typeCheckingMode": "basic"
             },
             "extensions": [
                 "ms-python.python",
+                "ms-python.black-formatter",
                 "ms-python.vscode-pylance",
                 "ms-azuretools.vscode-docker",
                 "eamodio.gitlens",
